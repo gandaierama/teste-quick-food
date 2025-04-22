@@ -1,2 +1,6 @@
-# teste-quick-food
-Teste solicitado
+# Arena Teste
+
+
+## Install
+docker-compose up -d --build
+
